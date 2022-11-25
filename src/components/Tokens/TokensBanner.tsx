@@ -21,7 +21,7 @@ const BackgroundColor = styled(Link)<{ show: boolean }>`
   position: absolute;
   right: clamp(0px, 1vw, 16px);
   text-decoration: none;
-  width: 200px;
+  width: 140px;
   z-index: ${Z_INDEX.sticky};
 `
 const PopupContainer = styled.div`
