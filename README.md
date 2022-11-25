@@ -1,4 +1,4 @@
-# Gtps.Finance 
+# Gtps.Finance is a fork of Uniswap Labs Interface
 - Website: [gtps.finance](https://gtps.finance/)
 - Interface: [gtpsfinance.com](https://gtpsfinance.com)
 - medium [https://medium.com/@welcome_73960]
